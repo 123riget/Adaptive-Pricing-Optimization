@@ -93,13 +93,13 @@ jupyter notebook
 * Model_Train.ipynb
 
 **Adaptive Pricing Curves**
-
-![Fig. Residential](./Results/Residential.png)
 **Residential**
-![Fig. Commercial](./Results/Commercial.png)
+![Fig. Residential](./Results/Residential.png)
 **Commercial**
-![Fig. Commercial](./Results/Industrial.png)
+![Fig. Commercial](./Results/Commercial.png)
 **Industrial**
+![Fig. Commercial](./Results/Industrial.png)
+
 
 ## Key Findings & Insights 
 
