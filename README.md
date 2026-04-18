@@ -95,7 +95,11 @@ jupyter notebook
 **Adaptive Pricing Curves**
 
 ![Fig. Residential](./Results/Residential.png)
+**Residential**
 ![Fig. Commercial](./Results/Commercial.png)
+**Commercial**
+![Fig. Commercial](./Results/Industrial.png)
+**Industrial**
 
 ## Key Findings & Insights 
 
