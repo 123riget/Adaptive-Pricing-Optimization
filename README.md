@@ -67,12 +67,13 @@ A comprehensive suite of forecasting models, evaluated using standard metrics (M
 **Installation**
 1. Clone the repository:
 
-git clone [https://github.com/rohitr_iitp/adaptive-pricing-optimization.git](https://github.com/rohitr_iitp/adaptive-pricing-optimization.git)
-cd adaptive-pricing-optimization
+```git clone [https://github.com/rohitr_iitp/adaptive-pricing-optimization.git](https://github.com/rohitr_iitp/adaptive-pricing-optimization.git)
+
+cd adaptive-pricing-optimization```
 
 2. Install the required dependencies:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ### Usage 
 
